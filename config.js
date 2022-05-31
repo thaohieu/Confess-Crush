@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Thích mà không dám tán là dở rồi',
     mess: 'Thích là phải tán nka pà nka',
     messDesc: 'Tối nay nhắn tin liền nka pà nka.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun',
     messLink: 'https://www.facebook.com/profile.php?id=100058528667185' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
